@@ -17,8 +17,8 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
   </div>
 
 - <div>
-     <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" >
-     ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
+     <img width="250" height="100" align='right' src="https://play-lh.googleusercontent.com/5KihZS28LUehm5mzSGp1aw0neVFk805JiJYH8F3YPAkSZD9jlZr1tzpE8voWVzNLpvaK=s48-rw" >
+     ... as a <strong>Technical Content Writer</strong> intern at almanar tech where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
      <br />
      <strong>View: </strong> <a href="https://play.google.com/store/apps/details?id=com.alshobky.myhasaby&pli=1" >
 مدير الحسابات المالية</a> 
