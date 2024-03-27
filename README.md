@@ -1,4 +1,4 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> Hey there! <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/19286361?v=4)" width="30px"></h4>
 
 I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full stack web developer and technical writer a demonstrated history of working in the information technology and services industry.
 
@@ -10,7 +10,8 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
     <img width="250" height="100" align='left' src="https://play-lh.googleusercontent.com/5KihZS28LUehm5mzSGp1aw0neVFk805JiJYH8F3YPAkSZD9jlZr1tzpE8voWVzNLpvaK=s48-rw" >
     ... as a <strong>Software Developer Intern</strong> at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack.
     <br />
-    <strong>View: </strong> <a href="https://edneed.com" >edneed.com</a> 
+    <strong>View: </strong> <a href="[https://edneed.com](https://play.google.com/store/apps/details?id=com.alshobky.myhasaby&pli=1)" >
+مدير الحسابات المالية</a> 
     <br /> 
     <br /> 
   </div>
