@@ -40,14 +40,7 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
 
 ---
 
-**Github Stats:**
 
-<p align="center">
-  
-  <img [src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&](https://avatars.githubusercontent.com/u/19286361?v=4)line_height=32">
-  <img [src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracul](https://avatars.githubusercontent.com/u/19286361?v=4)">
-
-</p>
 
 ---
 
