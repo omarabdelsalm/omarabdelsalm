@@ -45,10 +45,7 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
 ---
 
 <p align="center">
-  <i>Let's connect an chat! Find me on the web...</i>
-  
-   [![Website Badge](https://yousef555.blogspot.com/)]
-   
+ 
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
