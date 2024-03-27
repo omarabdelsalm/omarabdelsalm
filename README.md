@@ -7,7 +7,7 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
 **Currently I am working ...**
 
 - <div>
-    <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/edneed.jpg" >
+    <img width="250" height="100" align='left' src="https://play-lh.googleusercontent.com/5KihZS28LUehm5mzSGp1aw0neVFk805JiJYH8F3YPAkSZD9jlZr1tzpE8voWVzNLpvaK=s48-rw" >
     ... as a <strong>Software Developer Intern</strong> at EdNeed Technologies Pvt. Ltd. where I have been assisting in the (design and) development of the flagship remote education portal, Edneed.com, using the MERN tech stack.
     <br />
     <strong>View: </strong> <a href="https://edneed.com" >edneed.com</a> 
@@ -19,7 +19,8 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
      <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" >
      ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
      <br />
-     <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
+     <strong>View: </strong> <a href="https://play.google.com/store/apps/details?id=com.alshobky.myhasaby&pli=1" >
+مدير الحسابات المالية</a> 
      <br /> 
    </div>
 
@@ -42,15 +43,15 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+  <img [src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&](https://avatars.githubusercontent.com/u/19286361?v=4)line_height=32">
+  <img [src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracul](https://avatars.githubusercontent.com/u/19286361?v=4)">
 
 </p>
 
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
+  <i>Let's connect an chat! Find me on the web...</i>
   
    [![Website Badge](https://yousef555.blogspot.com/)]
    
@@ -58,7 +59,7 @@ I'm [omar alshobky](https://yousef555.blogspot.com/)), I'm an experienced full s
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
+    ⭐️ From [omar alshobky](https://github.com/omarabdelsalm)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
